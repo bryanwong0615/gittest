@@ -1,6 +1,1 @@
-# gittest
-# testing
-# testing
-# testing
-# testing
-# testing
+# git merge <branch that need merge to existing branch>
